@@ -84,7 +84,7 @@ window.addEventListener("DOMContentLoaded", (event) => {
     if (hasError) {
       return;
     }
-    const bussinesEmail = "webmaster@example.com";
+    const bussinesEmail = "mariachisoldehidalgo@gmail.com";
     const nameField = contactForm.querySelector("#name");
     const phoneField = contactForm.querySelector("#phone");
     const messageField = contactForm.querySelector("#message");
